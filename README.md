@@ -1,16 +1,32 @@
-### Hi there 👋
+# Main Repository for TO85
 
-<!--
-**TO85/TO85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About TO85
 
-Here are some ideas to get you started:
+### Tony Otto
+* Proprieter, TORC85 (Tony Otto Research Company or, sometimes, The Otto Racing Company #85).
+* Founder & CTO, Eclipse Identity Recognition Corporation, EIRC or EclipseIR
+  * https://www.eclipseir.com
+  * 1999 South Bascom Avenue #700, Campbell, California 95008 USA, (408) 357-0041
+* Cell Phone: (805) 406-6160 
+  * _Note_: Sprint got its wirelesses crossed (perhaps in the T-Mobile absorbtion) and if I don't push the right buttons to answer incoming calls in the first ring and a half, it annouces that the phone has been disconnected. If this happens to you, send me a TXTMSG and I will get back to you as soon as possible.
+* mailto:tony.torc85@gmail.com - Personal
+* mailto:totto.eclipseir@gmail.com - Business
+* mailto:totto@eclipseir.com - SPAM & Official Business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+
+### TO85
+
+* This: Public information about TO85 and its activities.
+
+### digimg
+
+* Digital Imaging related projects
+
+### funstuff
+
+* Game development
+
+### siiu
+
+* Management of units between Système International d'Unités (SI) and Imperial Units (IU) plus other more obscure systems of units as needed.
