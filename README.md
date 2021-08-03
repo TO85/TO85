@@ -19,6 +19,10 @@
 
 * This: Public information about TO85 and its activities.
 
+### common
+
+* Common build diretives, etc. for TO85, EIRC, etc. projects.
+
 ### digimg
 
 * Digital Imaging related projects
