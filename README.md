@@ -34,3 +34,7 @@
 ### siiu
 
 * Management of units between Système International d'Unités (SI) and Imperial Units (IU) plus other more obscure systems of units as needed.
+
+### template
+
+* A github template repository for Qt5/C++ projects.
