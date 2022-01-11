@@ -15,7 +15,7 @@
 
 ## Repositories
 
-### TO85
+### [TO85](https://github.com/TO85/TO85)
 
 * This: Public information about TO85 and its activities.
 
@@ -23,23 +23,22 @@
 
 * General interest applications and libraries
 
-### common
+### [common](https://github.com/TO85/common)
 
 * Common build diretives, etc. for TO85, EIRC, etc. projects.
 
-### digimg
+### [digimg](https://github.com/TO85/digimg)
 
 * Digital Imaging related projects
 
-### funstuff
+### [funstuff](https://github.com/TO85/funstuff)
 
 * Game development
-* [code](https://github.com/TO85/funstuff)
 
-### siiu
+### [siiu](https://github.com/TO85/siiu)
 
 * Management of units between Système International d'Unités (SI) and Imperial Units (IU) plus other more obscure systems of units as needed.
 
-### template
+### [template](https://github.com/TO85/template)
 
 * A github template repository for Qt5/C++ projects.
